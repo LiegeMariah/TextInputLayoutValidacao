@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlantPart</string>
+    <string name="helper">O valor minimo é de 4 plantinhas</string>
+    <string name="helperValorMaximo">O valor maximo é de 8 plantinhas</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/drawable/background_card.xml" value="0.2203125" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/drawable/buttom_shape_ativado.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/drawable/buttom_shape_desativado.xml" value="0.1625" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/layout/activity_sucesso.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/PlantPartEmprestimo/app/src/main/res/layout/loan_screen.xml" value="0.22" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/TelaValorDesejado/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/liege/AndroidStudioProjects/TelaValorDesejado/app/src/main/res/layout/bank_liege_tela_valor_desejado.xml" value="0.33" />
+        <entry key="..\:/Users/liege/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/activity_list_item.xml" value="0.12395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
