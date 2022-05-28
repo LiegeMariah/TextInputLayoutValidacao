@@ -35,7 +35,7 @@ class LoanScrenn : AppCompatActivity() {
         binding.hint.addTextChangedListener {
             if (!quantidadeDigitada.isNullOrBlank()) {
                 gerenciaCampoEditText()
-                Toast.makeText(this, "Digite um valor", Toast.LENGTH_LONG).show()
+//                Toast.makeText(this, "Digite um valor", Toast.LENGTH_LONG).show()
             }
         }
     }
